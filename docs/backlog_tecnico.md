@@ -1,0 +1,1 @@
+Backlog técnico: https://trello.com/invite/b/69de5526f44cc00b2f3148f7/ATTIb1a636207777285f4698078e151b210f732051F2/evalucion-flights
