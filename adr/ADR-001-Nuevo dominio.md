@@ -11,6 +11,7 @@ Crear un nuevo dominio "notification" con:
 - notification
 - notification_type
 - notification_channel
+- notification_delivery
 
 ## Justificación
 Permite mejorar experiencia del usuario y comunicación en tiempo real.
