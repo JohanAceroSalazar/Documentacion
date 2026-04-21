@@ -121,8 +121,8 @@ Los datos se insertarán siguiendo el mismo orden de dependencias de los dominio
 ## Ubicación de scripts
 
 Cada dominio debe tener su propio archivo:
-- `001-geography-inserts.sql`
-- `002-airline-inserts.sql`
+- `001--insert-geography.sql`
+- `002-insert-airline.sql`
 - etc.
 
 ---

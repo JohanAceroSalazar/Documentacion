@@ -47,8 +47,6 @@ Orden de ejecución:
 ### Fase 4 – Seguridad (DCL)
 - Crear roles en:
   - `03_dcl/00_roles`
-- Crear permisos en:
-  - `03_dcl/01_grants`
 
 ---
 
